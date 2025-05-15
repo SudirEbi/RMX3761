@@ -1,4 +1,5 @@
-# Android device tree for Itel P55 NFC (itel-A666LN)
+![image](https://github.com/user-attachments/assets/a027e3fc-c2b7-4ad5-ae3e-7b0ac499a10b)
+# Android TWRP device tree for Realme MX3760 RE58C2
 
 ```
 #
