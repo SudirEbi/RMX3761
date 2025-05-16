@@ -3,5 +3,5 @@
 Android TWRP device tree for Realme MX3760 RE58C2
 OS	Android 13, Realme UI T	
 Chipset	Unisoc Tiger T612 (12 nm)	
-CPU	Octa-core (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)	
+CPU	Octa-core (2x1.8 GHz Cortex-A75 & 6x1.8 GHz Cortex-A55)
 GPU	Mali-G57	
